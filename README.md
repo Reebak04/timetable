@@ -128,6 +128,8 @@ Execute the program
 </html>
 ```
 # OUTPUT:
+### Htmlvalidator
+![HTML](https://user-images.githubusercontent.com/118364993/232693799-0f6f2a11-1d21-44fb-a6d7-fa177f479d18.png)
 
 ### serveroutput
 ![serveroutput](https://user-images.githubusercontent.com/118364993/232692153-d3b7fc7c-2286-4202-aa79-09cd8ffede71.png)
