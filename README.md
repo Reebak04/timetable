@@ -128,11 +128,12 @@ Execute the program
 </html>
 ```
 # OUTPUT:
- ### serveroutput
- ![](./serveroutput)
 
- ### clientoutput
- ![](./clientoutput)
+### serveroutput
+![serveroutput](https://user-images.githubusercontent.com/118364993/232692153-d3b7fc7c-2286-4202-aa79-09cd8ffede71.png)
+
+### clientoutput
+ ![clientoutput](https://user-images.githubusercontent.com/118364993/232692123-d15fb202-7146-405c-a3d0-14f60cba2637.png)
 
  # RESULT:
  Thus the code has been executed successfully
